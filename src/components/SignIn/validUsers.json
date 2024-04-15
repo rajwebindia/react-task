@@ -1,0 +1,32 @@
+[
+    {
+        "id" : "01",
+        "email": "raj@webindia.com",
+        "name": "Raj",
+        "mobileNumber": "9944008092",
+        "subscriberID": "ABC123",
+        "address": "123 Main Street, City",
+        "accountBalance": 1000,
+        "password": "password"
+    },
+    {
+        "id" : "02",
+        "email": "pothiraj@webindia.com",
+        "name": "Pothiraj",
+        "mobileNumber": "0987654321",
+        "subscriberID": "ABC234",
+        "address": "456 Elm Street, Town",
+        "accountBalance": 2000,
+        "password": "password1"
+    },
+    {
+        "id" : "03",
+        "email": "jeeva@webindia.com",
+        "name": "Raj",
+        "mobileNumber": "9876543210",
+        "subscriberID": "ABC345",
+        "address": "789 Oak Street, Village",
+        "accountBalance": 1500,
+        "password": "password2"
+    }
+]

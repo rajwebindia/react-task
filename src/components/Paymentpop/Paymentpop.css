@@ -1,0 +1,75 @@
+.paymen-pop.modal .modal-header .h4 {
+    font-size: 20px;
+}
+
+.paymen-pop.modal .modal-header {
+    background: #115e95;
+    color: #fff;
+    padding: 5px 13px;
+}
+.paymen-pop .btn-primary {
+    background: #115e95;
+    
+}
+.paymen-pop .btn {
+    padding: 8px 32px;
+    outline: none;
+    border: none;
+    font-size: 14px;
+}
+.paymen-pop .modal-dialog {
+    max-width: 600px !important;
+}
+.input-label span {
+    font-weight: 500;
+}
+.input-block input {
+    border: .5px solid #ABABAB;
+    color: #000000;
+    padding: 5px 14px;
+    font-size: 14px;
+    border-radius: 8px;
+    width: 100%;
+    height: 38px;
+}
+.input-block {
+    margin-bottom: 10px;
+}
+.input-label {
+    margin-bottom: 10px;
+}
+
+.policy-cont p {
+    font-size: 14px;
+    margin-bottom: 0;
+}
+.paymen-pop .modal-footer {
+    border-top: 0px;
+    padding-top: 0;
+}
+.paymen-pop .btn-close
+{
+    --bs-btn-close-bg: url(../../assets/imges/close-white-btn.svg) !important;
+    opacity: 1;
+}
+.input-block input:focus {
+    outline: none;
+}
+.trans-cont-msg p {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+.trans-cont-msg {
+    text-align: center;
+}
+.payment-pop-sucess .modal-footer {
+    border-top: 0px;
+    padding-top: 0;
+    display: block;
+    text-align: center;
+}
+.payment-pop-sucess .modal-body {
+    padding-bottom: 8px;
+}
